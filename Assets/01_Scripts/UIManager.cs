@@ -13,6 +13,7 @@ public class UIManager : MonoBehaviour // 저장된 것을 보여주는 역할
     public Text metalCountText;
 
     public GameObject settingScreen;
+    public GameObject settingScreenText;
 
     private void Update()
     {
